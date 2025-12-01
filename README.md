@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I'm akremm
 
-<!--
-**akremm05/akremm05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑🏽‍💻 Learning Web Dev + Design  
+I'm starting my journey into frontend, backend, and UI design.  
+Currently focused on building a solid foundation in:
 
-Here are some ideas to get you started:
+- 🌐 HTML & CSS    
+- ✏️ Web Design basics  
+- 🧠 Problem solving / logic  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 My Goals  
+- Become a full-stack developer (Unicorn)
+- Build clean, modern websites  
+- Learn JavaScript & React  
+- Understand backend & databases  
+- Create real projects to fill my portfolio  
+
+### 🔧 Tools I Use  
+- 📝 Sublime Text and VSCode
+- 🐧 Fedora Linux (KDE Plasma)  
+- 🛠 Git + GitHub  
+- 🎨 Figma (browser)  
+
+### 🚀 What I’m Working On  
+- Learning HTML & CSS properly  
+- Setting up my GitHub workflow  
+- Building my first real web projects  
+- Improving every single day  
+
+Also working on this README eventually...
